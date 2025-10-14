@@ -1,0 +1,18 @@
+{
+  "stories": [
+    {
+      "id": "story1",
+      "title": "The Curious Little Rabbit",
+      "category": "Animals",
+      "image": "https://cdn.pixabay.com/photo/2017/06/20/20/20/child-2421772_1280.jpg",
+      "text": "Once upon a time there was a curious little rabbit. Every morning he left his burrow to explore the forest. One day he found a golden butterfly shining in the sun. The rabbit decided to follow it and a wonderful adventure began."
+    },
+    {
+      "id": "story2",
+      "title": "The Magic Forest",
+      "category": "Magic",
+      "image": "https://cdn.pixabay.com/photo/2016/11/29/13/12/child-1867008_1280.jpg",
+      "text": "In the heart of a magic forest lived a blue unicorn. She sang to make the flowers grow. One day she met a lost girl. Together they made the whole clearing bloom again."
+    }
+  ]
+}
