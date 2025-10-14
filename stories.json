@@ -5,14 +5,62 @@
       "title": "The Curious Little Rabbit",
       "category": "Animals",
       "image": "https://cdn.pixabay.com/photo/2017/06/20/20/20/child-2421772_1280.jpg",
-      "text": "Once upon a time there was a curious little rabbit. Every morning he left his burrow to explore the forest. One day he found a golden butterfly shining in the sun. The rabbit decided to follow it and a wonderful adventure began."
+      "paragraphs": [
+        {
+          "text": "Once upon a time there was a curious little rabbit named Benny. He had soft white fur and long floppy ears that twitched at every sound.",
+          "image": "https://cdn.pixabay.com/photo/2017/04/02/16/36/rabbit-2196427_1280.jpg",
+          "imageCaption": "Benny the curious rabbit"
+        },
+        {
+          "text": "Every morning, Benny would leave his cozy burrow to explore the magical forest. He loved hopping through the tall grass and discovering new paths.",
+          "image": "https://cdn.pixabay.com/photo/2015/12/01/20/28/forest-1072828_1280.jpg",
+          "imageCaption": "The magical forest"
+        },
+        {
+          "text": "One sunny day, Benny saw something sparkling in the distance. It was a golden butterfly with wings that shimmered like precious gems in the sunlight.",
+          "image": "https://cdn.pixabay.com/photo/2017/07/18/17/32/butterfly-2516563_1280.jpg",
+          "imageCaption": "Golden butterfly"
+        },
+        {
+          "text": "The rabbit decided to follow the beautiful butterfly, and this decision led him to the most wonderful adventure of his life."
+        }
+      ],
+      "coloringPages": [
+        "https://cdn.pixabay.com/photo/2017/04/02/16/36/rabbit-2196427_1280.jpg",
+        "https://cdn.pixabay.com/photo/2015/12/01/20/28/forest-1072828_1280.jpg",
+        "https://cdn.pixabay.com/photo/2017/07/18/17/32/butterfly-2516563_1280.jpg"
+      ]
     },
     {
-      "id": "story2",
+      "id": "story2", 
       "title": "The Magic Forest",
       "category": "Magic",
       "image": "https://cdn.pixabay.com/photo/2016/11/29/13/12/child-1867008_1280.jpg",
-      "text": "In the heart of a magic forest lived a blue unicorn. She sang to make the flowers grow. One day she met a lost girl. Together they made the whole clearing bloom again."
+      "paragraphs": [
+        {
+          "text": "In the heart of the enchanted forest lived Luna, a beautiful blue unicorn. Her coat shimmered like moonlight and her horn glowed with magical energy.",
+          "image": "https://cdn.pixabay.com/photo/2017/11/10/15/26/unicorn-2936914_1280.png",
+          "imageCaption": "Luna the blue unicorn"
+        },
+        {
+          "text": "Luna had a special gift - when she sang, flowers would bloom and trees would grow. Her melodies made the entire forest come alive with color and beauty.",
+          "image": "https://cdn.pixabay.com/photo/2018/04/11/17/27/flowers-3311080_1280.jpg",
+          "imageCaption": "Blooming flowers"
+        },
+        {
+          "text": "One afternoon, Luna discovered a little girl named Lily who had wandered too far from home. The girl was lost but not afraid, for the forest felt magical to her.",
+          "image": "https://cdn.pixabay.com/photo/2016/11/29/13/12/child-1867008_1280.jpg",
+          "imageCaption": "Lily the little girl"
+        },
+        {
+          "text": "Together, Luna and Lily sang a magical song that made the entire clearing burst with the most beautiful flowers anyone had ever seen."
+        }
+      ],
+      "coloringPages": [
+        "https://cdn.pixabay.com/photo/2017/11/10/15/26/unicorn-2936914_1280.png",
+        "https://cdn.pixabay.com/photo/2018/04/11/17/27/flowers-3311080_1280.jpg",
+        "https://cdn.pixabay.com/photo/2016/11/29/13/12/child-1867008_1280.jpg"
+      ]
     }
   ]
 }
