@@ -5,6 +5,7 @@
       "title": "The Curious Little Rabbit",
       "category": "Animals",
       "image": "https://cdn.pixabay.com/photo/2017/06/20/20/20/child-2421772_1280.jpg",
+      "storyPaper": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "paragraphs": [
         {
           "text": "Once upon a time, in a cozy little burrow at the edge of the Enchanted Forest, lived a curious little rabbit named Benny. He had the softest white fur you could ever imagine, and his long floppy ears twitched with excitement at every new sound.",
@@ -40,6 +41,7 @@
       "title": "The Magic Unicorn",
       "category": "Magic", 
       "image": "https://cdn.pixabay.com/photo/2016/11/29/13/12/child-1867008_1280.jpg",
+      "storyPaper": "https://www.africau.edu/images/default/sample.pdf",
       "paragraphs": [
         {
           "text": "In the heart of the Rainbow Valley lived Sparkle, a magical unicorn with a coat that shimmered like moonlight and a horn that glowed with all the colors of the rainbow.",
@@ -64,6 +66,23 @@
         "https://cdn.pixabay.com/photo/2017/11/10/15/26/unicorn-2936914_1280.png",
         "https://cdn.pixabay.com/photo/2018/04/11/17/27/flowers-3311080_1280.jpg",
         "https://cdn.pixabay.com/photo/2016/11/29/13/12/child-1867008_1280.jpg"
+      ]
+    },
+    {
+      "id": "story3",
+      "title": "The Brave Little Turtle",
+      "category": "Adventure",
+      "image": "https://cdn.pixabay.com/photo/2017/09/25/13/14/turtle-2785074_1280.jpg",
+      "storyPaper": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+      "paragraphs": [
+        {
+          "text": "Timmy the turtle was the smallest in his family, but he had the biggest heart and the bravest spirit of all.",
+          "image": "https://cdn.pixabay.com/photo/2017/09/25/13/14/turtle-2785074_1280.jpg",
+          "imageCaption": "Timmy the brave little turtle"
+        }
+      ],
+      "coloringPages": [
+        "https://cdn.pixabay.com/photo/2017/09/25/13/14/turtle-2785074_1280.jpg"
       ]
     }
   ]
